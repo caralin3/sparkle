@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { decrement, increment, RootState } from '.././store';
 import { useSelector, useDispatch } from 'react-redux';
 import { Text, View, Button } from 'react-native';
